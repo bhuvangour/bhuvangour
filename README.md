@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<h1 align="center"><b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Bhuvan Gour/b></h1>
+<h1 align="center"><b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Bhuvan Gour</h1>
 
 
 <br>
@@ -11,7 +11,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliArafat9&label=Profile%20views&color=0e75b6&style=flat" alt="aliArafat9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvangour&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvangour" /> </p>
 <!-- <img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
 <br>
@@ -21,22 +21,22 @@
 
 <br>
 
-![Arafat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=aliArafat9&show_icons=true&theme=tokyonight&border_radius=7.6)
+![Arafat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=bhuvangour&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 <br>
 
-![Arafat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+![Arafat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvangour&theme=tokyonight&border_radius=7.6)
 
 <br/>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=aliArafat9&theme=onedark)](https://github.com/aliArafat9/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhuvangour&theme=onedark)](https://github.com/bhuvangour/github-profile-trophy)
 
 <br>
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning *DSA*
-- 👨‍💻 All of my projects are available at [https://github.com/aliArafat9](https://github.com/aliArafat9)
+- 👨‍💻 All of my projects are available at [https://github.com/bhuvangour](https://github.com/bhuvangour)
 
 <br>
 
@@ -59,15 +59,15 @@
 <br>
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=aliArafat9&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/aliArafat9/github-readme-stats)
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=bhuvangour&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/bhuvangour/github-readme-stats)
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuvangour&theme=tokyonight&border_radius=7.6)
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvangour&theme=tokyonight&border_radius=7.6)
 
 <br>
 
@@ -77,12 +77,12 @@
 <br>
 
 # 📊 GitHub Contribution Graph:
-[![Arafat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliArafat9&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arafat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvangour&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 # 📊 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=aliArafat9&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhuvangour&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
 
 <br>
 
