@@ -21,11 +21,11 @@
 
 <br>
 
-![Arafat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=bhuvangour&show_icons=true&theme=tokyonight&border_radius=7.6)
+![Bhuvan's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=bhuvangour&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 <br>
 
-![Arafat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvangour&theme=tokyonight&border_radius=7.6)
+![Bhuvan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvangour&theme=tokyonight&border_radius=7.6)
 
 <br/>
 
@@ -70,12 +70,12 @@
 <br>
 
 ## 💡 Leetcode Statistics
-![](https://leetcard.jacoblin.cool/arfatakbar090?ext=activity)
+![](https://leetcard.jacoblin.cool/bhuvangour?ext=activity)
 
 <br>
 
 # 📊 GitHub Contribution Graph:
-[![Arafat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvangour&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bhuvan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvangour&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
