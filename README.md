@@ -42,13 +42,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Arafat-Ali-the-looper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@Arafat-Ali-the-looper" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arafat-ali-akbar-696043227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arafat-ali-akbar-696043227/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/alicoder09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alicoder09" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arfatakbar090?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arfatakbar090" height="30" width="40" /></a>
-<a href="https://leetcode.com/arfatakbar090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arfatakbar090" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhuvan-gour-840857244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhuvan-gour-840857244/" height="30" width="40" />
+<a href="[https://www.hackerrank.com/bhuvangour990?hr_r=1](https://www.hackerrank.com/profile/bhuvangour990)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhuvangour990" height="30" width="40" /></a>
+<a href="https://leetcode.com/bhuvangour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arfatakbar090" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arfat/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arfat" height="30" width="40" /></a>
-<a href="https://instagram.com/ali.arafat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.arafat_" height="30" width="40" /></a>
+<a href="https://instagram.com/bhuvang0ur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.arafat_" height="30" width="40" /></a>
 </p>
 
 <br>
