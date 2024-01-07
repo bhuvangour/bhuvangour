@@ -33,7 +33,7 @@
 
 <br>
 
-- 🔭 I’m currently working on Web Development 
+- 🔭 I’m currently working on App Development 
 - 🌱 I’m currently learning *DSA*
 - 👨‍💻 All of my projects are available at [https://github.com/bhuvangour](https://github.com/bhuvangour)
 
