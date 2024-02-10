@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center"><b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Bhuvan Gour</h1>
-
 <br> 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Python;%20Web%20App%20Developer%20|%20MERN%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
