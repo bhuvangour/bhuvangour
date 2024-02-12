@@ -31,9 +31,9 @@
 
 <br>
 
-- 🔭 I’m currently working on developing feelings for vanshi
-- 🌱 I’m currently learning *how to impress vanshi*
-- 👨‍💻 All of my projects are available at vanshi ovary [https://github.com/bhuvangour](https://github.com/bhuvangour)
+- 🔭 I’m currently working on android development 
+- 🌱 I’m currently learning *DSA*
+- 👨‍💻 All of my projects are available at [https://github.com/bhuvangour](https://github.com/bhuvangour)
 
 <br>
 
