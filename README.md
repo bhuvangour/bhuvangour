@@ -28,7 +28,6 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhuvangour&theme=onedark)](https://github.com/bhuvangour/github-profile-trophy)
-
 <br>
 
 - 🔭 I’m currently working on android development 
